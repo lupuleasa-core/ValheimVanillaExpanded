@@ -2,7 +2,7 @@
 
 Have you finished the game and want something more, or you are looking to start a new world fresh and enjoy Valheim for a long while?
 
-You might enjoy this: Minimal but impactful changes only.
+Minimal but impactful changes only.
 
 &nbsp;
 
@@ -12,20 +12,22 @@ More to come in future versions. Keep an eye out.
 
 ---
 
-I take no credit for any content in this modpack. All credit for each mod goes to the original creator.
+I take no credit for any content in this modpack. All credit for each mod goes to the original creators.
 
 ---
 
 
 ## How to install:
 
-1. Download [r2modman from Thunderstore](https://valheim.thunderstore.io/package/ebkr/r2modman/), open it and select Valheim as the default game
+1. Install Valheim on Steam
 
-2. Create a new profile (or go to "Settings > Profile > Change Profile > New Profile" if are already on one)
+2. Download [r2modman from Thunderstore](https://valheim.thunderstore.io/package/ebkr/r2modman/), open it and select Valheim as the default game
 
-3. Go to "Online" and search for "Vanilla Enhanced" and download it
+3. Create a new profile (or go to "Settings > Profile > Change Profile > New Profile" if you are already on one)
 
-4. Click "Start modded" and enjoy
+4. Go to "Online" and search for "Vanilla Enhanced" and download it
+
+5. Click "Start modded" and enjoy
 
 Optionally: You can backup your world and characters by going to %APPDATA%\..\LocalLow\IronGate\Valheim
 
