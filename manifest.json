@@ -1,7 +1,7 @@
 {
   "name": "Vanilla_Expanded",
-  "version_number": "1.0.9",
-  "website_url": "",
+  "version_number": "1.1.0",
+  "website_url": "https://github.com/lupuleasa-core/ValheimVanillaExpanded",
   "description": "A modpack that expands the Vanilla Valheim experience, while keeping everything as true to the Valheim devs as possible.",
   "dependencies": [
     "cjayride-FasterBoats-1.0.0",
