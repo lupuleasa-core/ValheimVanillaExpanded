@@ -19,7 +19,7 @@ I take no credit for any content in this modpack. All credit for each mod goes t
 
 ## How to install:
 
-1. Download r2modman from Thunderstore, open it and select Valheim as the default game
+1. Download [r2modman from Thunderstore](https://valheim.thunderstore.io/package/ebkr/r2modman/), open it and select Valheim as the default game
 
 2. Create a new profile (or go to "Settings > Profile > Change Profile > New Profile" if are already on one)
 
